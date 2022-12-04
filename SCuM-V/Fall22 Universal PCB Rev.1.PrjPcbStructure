@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Top.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Chip|SchDesignator=Chip|FileName=DUT.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=DUT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=IO Sheet|SchDesignator=IO Sheet|FileName=IO.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=IO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Power Supply|SchDesignator=Power Supply|FileName=Power.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=RF Stuff|SchDesignator=RF Stuff|FileName=RF.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=RF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
